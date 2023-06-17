@@ -1,0 +1,74 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+cursor: url("data:image/x-icon;base64,AAACAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAD9/f0AAAAAAPb29gAQEBAA////APHx8QAUFBQAHR0dAA8PDwAICAgA9/f3ABoaGgAFBQUALCwsAO3t7QAAAAAAERERERERERERERERERERERERERERERERERERERERERERERERERgUREREERERERERERERERERRBGZcUEREREREREREREREREkREERERERERERERERERFEFFSkQRERERERERERERkURBQUFEQRERERERERERERREQUFEFEQRERERERERERFEREFEFBREERERERERERE0RERBRBQUREERERERERERFEREREQURERBERERERERERREREREREREQRERERERERFERERERERERETRERERERERREREREREREREEREREREREUQURERERERERBEREREREREUFEREREREREQRERERERERFBRERERERBRBERERERERERYURERBREQUQRERERERERERHkREQUREERERERERERERERFEREFEQBERERERERERERERRERBFEEREREREREREREREUREQRsRERERERERERERERFEREERERERERERERERERERRERBEREREREREREREREREUREQRERERERERERERERERxERKERERERERERERERERERRERBEREREREREREREREREUREQRERERERERERERERERFEREERERERERERERERERERFEQRERERERERERERERERERERERERERERERERERERERERERERERERERERH///////gP///gB///4AP//8AH///AA///gAH//wAA//8AAH/+AAB//gAAf/4AAH/8AAA//AAAP/wAAD/+AAA//gAAf/8AAH//AAD//4AB///AB///wA///8B////Af///wH///8B////Af///wH///8B////g////8f///////w=="),
+auto;
+}
+
+header{
+background-color:#1E1E1E ;
+}
+
+ol {
+text-align: center;
+
+}
+
+li {
+display: inline-block;
+margin: 5vw;
+font-size: 40px;
+font-family: 'Lily Script One';
+color: white;
+
+}
+
+li:hover {
+color: #1251A9;
+transform: scale(115%);
+}
+
+.primeiraSessao figure img {
+width: 100vw;
+height: 70vh;
+}
+
+.posterFilmes figure img {
+border-radius: 61px;
+width: 54.39137134052388vh;
+height: 37.55490483162518vw;
+border: solid black;
+}
+
+main section {
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+
+margin-bottom: 5vh;
+margin-top: 2vh
+}
+
+footer {
+    background-color:#1E1E1E ;
+}
+article {
+display: flex;
+align-items: center;
+height: 30vh;
+color: white;
+}
+
+footer section {
+display: flex;
+align-items: center;
+
+
+}
+
+footer img {
+margin: 1vw;
+width: 5vw;
+height: 10vh;
+}
